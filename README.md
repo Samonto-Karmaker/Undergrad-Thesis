@@ -1,3 +1,5 @@
+# Undergrad Thesis (BRAC University)
+
 This repo contains all the graphs generated during my final thesis. This includes graphs from
 1. Sentiment and Subjective Analysis
 2. Cross Tabular Analysis
